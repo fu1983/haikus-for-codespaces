@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Roots Afro Locs</title>
+  <style>
+    body {font-family: Arial, sans-serif; margin:0; background:#0f2e1c; color:white;}
+    header {padding:20px; text-align:center; background:#071a10;}
+    h1 {margin:0; font-size:2.5em;}
+    section {padding:40px 20px; max-width:900px; margin:auto;}
+    .btn {display:inline-block; padding:12px 20px; background:#25D366; color:white; text-decoration:none; border-radius:5px; margin-top:15px;}
+    .card {background:#123524; padding:20px; border-radius:10px; margin-bottom:20px;}
+    footer {text-align:center; padding:20px; background:#071a10;}
+  </style>
+</head>
+<body><header>
+  <h1>Roots Afro Locs</h1>
+  <p>Feed Your Roots. Respect the Process.</p>
+  <a href="https://wa.me/your-number" class="btn">Book via WhatsApp</a>
+</header><section>
+  <h2>Our Services</h2>  <div class="card">
+    <h3>Loc Installation</h3>
+    <p>Start your loc journey with strong, natural foundations.</p>
+  </div>  <div class="card">
+    <h3>Maintenance & Retwist</h3>
+    <p>Keep your locs clean, neat, and healthy.</p>
+  </div>  <div class="card">
+    <h3>Repairs & Restoration</h3>
+    <p>Fix damaged, thinning, or broken locs professionally.</p>
+  </div>  <div class="card">
+    <h3>Thickening</h3>
+    <p>Add volume and strength to weak or thin locs.</p>
+  </div>  <div class="card">
+    <h3>Styling</h3>
+    <p>Custom styles for everyday wear or special occasions.</p>
+  </div>
+</section><section>
+  <h2>Natural Products</h2>
+  <div class="card">
+    <h3>Pure Growth Formula</h3>
+    <p>Made with aloe, garlic, onion, and lemon to nourish your roots and promote growth.</p>
+    <a href="https://wa.me/your-number" class="btn">Order Now</a>
+  </div>
+</section><section>
+  <h2>Why Choose Us?</h2>
+  <div class="card">
+    <p>✔ 100% Natural Ingredients</p>
+    <p>✔ Real Results, No Shortcuts</p>
+    <p>✔ Designed Specifically for Locs</p>
+  </div>
+</section><section>
+  <h2>Contact</h2>
+  <p>Ready
